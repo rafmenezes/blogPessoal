@@ -1,0 +1,8 @@
+#img-bg{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/a5/Astro_4D_milkyway_stars_proper_radial_all_apex_anim.gif);
+
+    min-height: 625px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
